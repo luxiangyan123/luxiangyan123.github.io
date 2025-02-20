@@ -20,4 +20,4 @@ lang: "en"
 
 ## Contact
 
-Email: zhonger[at]live.cn (Please replace [at] with @.)
+Email: luxiangyan[at]live.cn (Please replace [at] with @.)

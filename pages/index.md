@@ -34,4 +34,4 @@ lang: "zh-Hans"
 
 ## 联系我
 
-邮箱：zhonger[at]live.cn (请使用@替换[at])
+邮箱：luxiangyan[at]live.cn (请使用@替换[at])

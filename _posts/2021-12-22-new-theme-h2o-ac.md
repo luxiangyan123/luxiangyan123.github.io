@@ -4,7 +4,7 @@ title: 'H2O-ac theme for Jekyll'
 subtitle: '基于或许是最漂亮的 Jekyll 主题 H2O 的学术版'
 date: 2021-12-22 19:50:00 +0800
 categories: tech
-author: zhonger
+author: luxiangyan
 cover: 'https://images.unsplash.com/photo-1529322365446-6efd62aed02e?w=1600&q=900'
 cover_author: 'inma santiago'
 cover_author_link: 'https://unsplash.com/@inmasantiago'
@@ -26,7 +26,7 @@ submenu: 'begin'
 
 &emsp;&emsp;正如大家所知，Jekyll [^1] 是一款高可定制的、非常流行的静态博客生成工具。围绕着 Jekyll 也衍生出了很多优秀的 Jekyll 主题， 由 [廖柯宇](https://github.com/kaeyleo) 开发的 [H2O](https://github.com/kaeyleo/jekyll-theme-H2O) 主题就是其中之一。极简主义、风格扁平化、卡片式布局、Medium 及知乎专栏的视觉风格等等特点，为我们带来了或许是迄今为止最漂亮的 Jekyll 主题。
 
-&emsp;&emsp;诞生之初，H2O 主题就在 Github 平台上以 MIT 许可证协议开放了源代码。这吸引了很多小伙伴纷纷转投 Jekyll 和 H2O 主题的阵营，本人也是其中之一。随着使用者越来越多，不少的小伙伴在使用过程中发现了一些小问题并主动修复，最后贡献到了 H2O 的主项目，这让 H2O 主题变得更好。本人在使用过程中也的确是发现了一些与自己实际需求不大一致的地方，并且在原 H2O 主题的基础上做了一些改动。考虑到这些改动可能并不是大多数人的需求，直接向原 H2O 主题提交 pull 请求合并的必要性不大，因此决定将原项目 fork 并改名。现正式将源代码以与 H2O 主题相同的 MIT 许可证协议在 Github 平台上公开，新项目地址为 [zhonger/jekyll-theme-H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac)。
+&emsp;&emsp;诞生之初，H2O 主题就在 Github 平台上以 MIT 许可证协议开放了源代码。这吸引了很多小伙伴纷纷转投 Jekyll 和 H2O 主题的阵营，本人也是其中之一。随着使用者越来越多，不少的小伙伴在使用过程中发现了一些小问题并主动修复，最后贡献到了 H2O 的主项目，这让 H2O 主题变得更好。本人在使用过程中也的确是发现了一些与自己实际需求不大一致的地方，并且在原 H2O 主题的基础上做了一些改动。考虑到这些改动可能并不是大多数人的需求，直接向原 H2O 主题提交 pull 请求合并的必要性不大，因此决定将原项目 fork 并改名。现正式将源代码以与 H2O 主题相同的 MIT 许可证协议在 Github 平台上公开，新项目地址为 [luxiangyan/jekyll-theme-H2O-ac](https://github.com/luxiangyan/jekyll-theme-H2O-ac)。
 
 &emsp;&emsp;在此，非常感谢廖柯宇及其他小伙伴对于 H2O-ac 主题的基础主题 H2O 的代码开发和开放共享。
 
@@ -479,7 +479,7 @@ umami:
 
 #### 方式一：从模板新建博客
 
-&emsp;&emsp;为了方便用户使用 H2O-ac 主题，特别提供了 Github 的模板功能。如下图所示，访问 [H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac) 可以看到如下的 Use this template 按钮，点击该按钮即可用 H2O-ac 主题创建自己的博客代码仓库。想要了解更多步骤，可以访问 Github 官方文档之 [从模板创建仓库](https://docs.github.com/cn/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)。
+&emsp;&emsp;为了方便用户使用 H2O-ac 主题，特别提供了 Github 的模板功能。如下图所示，访问 [H2O-ac](https://github.com/luxiangyan/jekyll-theme-H2O-ac) 可以看到如下的 Use this template 按钮，点击该按钮即可用 H2O-ac 主题创建自己的博客代码仓库。想要了解更多步骤，可以访问 Github 官方文档之 [从模板创建仓库](https://docs.github.com/cn/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)。
 
 ![从模板新建 Start the blog from the template](https://i.lisz.top/blog/oHHZZh.webp)
 
@@ -489,7 +489,7 @@ umami:
 
 (2021年12月26日更新)
 
-&emsp;&emsp;现已支持使用 gem 直接切换主题 `jekyll-theme-h2o-ac`。同时，也推出了一键式构建工具 [easy-to-h2o-ac](https://github.com/zhonger/easy-to-h2o-ac)，详细可以见项目主页。
+&emsp;&emsp;现已支持使用 gem 直接切换主题 `jekyll-theme-h2o-ac`。同时，也推出了一键式构建工具 [easy-to-h2o-ac](https://github.com/luxiangyan/easy-to-h2o-ac)，详细可以见项目主页。
 
 ### 本地测试
 
@@ -501,7 +501,7 @@ umami:
 
 ## 结束语
 
-&emsp;&emsp;再次感谢廖柯宇及其他小伙伴们对 H2O 主题的付出，没有 H2O 主题就没有 H2O-ac 主题！H2O-ac 主题后续也将继续更新，欢迎小伙伴们使用和 [Star](https://github.com/zhonger/jekyll-theme-H2O-ac)，也欢迎大家一起来贡献代码。
+&emsp;&emsp;再次感谢廖柯宇及其他小伙伴们对 H2O 主题的付出，没有 H2O 主题就没有 H2O-ac 主题！H2O-ac 主题后续也将继续更新，欢迎小伙伴们使用和 [Star](https://github.com/luxiangyan/jekyll-theme-H2O-ac)，也欢迎大家一起来贡献代码。
 
 （Ps: ~~由于沿用了 H2O 的 Logo，可能会侵犯廖柯宇的版权。如果的确如此，后续将会设计一个新的 Logo。~~ 已采用新 Logo。）
 （2022年1月10日更新）

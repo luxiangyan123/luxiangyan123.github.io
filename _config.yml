@@ -4,7 +4,7 @@ version: 1.5.1
 # Site settings 配置站点
 title: 'Mr Li'
 description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
+keyword: 'luxiangyan，luxiangyan的博客，nodejs，kvm, 机器学习'
 url: 'https://luxiangyan123.github.io' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -82,10 +82,10 @@ comments:
   artalk_uaBadge: false
   utterances: false
   utterances_url: 'https://utteranc.es/client.js'
-  # utterances_repo: 'zhonger/utterances-comments'
+  # utterances_repo: 'luxiangyan/utterances-comments'
   giscus: false
   giscus_url: 'https://giscus.app/client.js'
-  # giscus_repo: 'zhonger/giscus-comments'
+  # giscus_repo: 'luxiangyan/giscus-comments'
   # giscus_repo_id: 'R_kgDONLt80A'
   # giscus_category_id: 'DIC_kwDONLt80M4CkDnG'
   giscus_lang: 'zh-CN'
@@ -113,9 +113,9 @@ sns:
   # google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
   # researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
   # ORCID: 'https://orcid.org/0000-0001-6973-3825'
-  # github: 'https://github.com/zhonger'
+  # github: 'https://github.com/luxiangyan'
   # linkedin: 'https://www.linkedin.com/in/shengzhouli/'
-  # segmentfault: 'https://segmentfault.com/u/wuwozhonger'
+  # segmentfault: 'https://segmentfault.com/u/wuwoluxiangyan'
 
 # Links 友情链接
 links:
